@@ -1,2 +1,6 @@
 # draw_tesseract
-draw tesseract
+
+４次元超立方体を任意平面で回転して3Dに投影する、というプログラムです。
+
+
+私の環境ではmatplotlibのgif出力がうまく行かなかったので、mp4を介してffmpegで変換しています。
